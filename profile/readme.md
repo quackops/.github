@@ -7,3 +7,6 @@
 ### Know our products
 
 * :paw_prints: [Pawee Space](https://pawee.space)
+* :money_with_wings: [Fecha Conta](https://fechaconta.fun)
+* :soccer: [Bolaum](https://bolaum.fun)
+* :video_game: Party Games (coming soon)
